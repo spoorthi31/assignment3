@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.parent1{
+    /* height: 300px; */
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.ele{
+    height: 200px;
+    width: 15%;
+    background-color: red;
+}
+.parent2{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: inline-block;
+
+}
+.imo{
+    height: 200px;
+    width: 20%;
+    background-color: gray;
+    display: inline-block;
+    margin-left: 3%;
+}
